@@ -1,6 +1,5 @@
 import { Route, Switch, Redirect } from "react-router-dom";
 import Layout from "./components/layout/Layout";
-import MainNavigation from "./components/layout/MainNavigation";
 import AllQuotes from "./pages/AllQuotes";
 import NewQuote from "./pages/NewQuote";
 import NotFound from "./pages/NotFound";
